@@ -1,0 +1,7 @@
+# installing required libraries in my_env
+gradio 
+transformers
+bs4
+requests
+torch
+Pillow
